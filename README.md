@@ -22,4 +22,9 @@ Follow the on-screen menu.
 - GitHub Actions for CI
 
 ## Screenshots (suggestion)
-Include console screenshots showing: Add → View → Update → Delete.
+1.Adding a student record.
+<img width="848" height="423" alt="image" src="https://github.com/user-attachments/assets/ac1c1546-cd74-41c6-bc27-9926b85bd83f" />
+2.Viewing the entered student records.
+<img width="709" height="315" alt="image" src="https://github.com/user-attachments/assets/8f785c30-d123-41b1-a6a7-7c4b0afa14a1" />
+
+
