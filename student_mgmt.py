@@ -101,12 +101,25 @@ def main() -> None:
     while True:
         print("\n1) Add  2) View  3) Search  4) Update  5) Delete  6) Exit")
         c = input("Choice: ").strip()
-        if c == "1": add_student(); pause()
-        elif c == "2": view_students(); pause()
-        elif c == "3": search_student(); pause()
-        elif c == "4": update_student(); pause()
-        elif c == "5": delete_student(); pause()
-        elif c == "6": save_data(); print("Goodbye!"); break
+        if c == "1":
+            add_student()
+            pause()
+        elif c == "2":
+            view_students()
+            pause()
+        elif c == "3":
+            search_student()
+            pause()
+        elif c == "4":
+            update_student()
+            pause()
+        elif c == "5":
+            delete_student()
+            pause()
+        elif c == "6":
+            save_data()
+            print("Goodbye!")
+            break
         else: print("Invalid choice.")
 
 
